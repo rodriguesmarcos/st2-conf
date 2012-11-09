@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": 1352392367,
+	"installed_packages":
+	[
+		"Abacus",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"CoffeeCompile",
+		"CoffeeScript",
+		"DetectSyntax",
+		"Git",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Prefixr",
+		"RSpec",
+		"Ruby 1.9 Hash Converter",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}
